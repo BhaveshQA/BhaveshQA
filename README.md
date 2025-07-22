@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @BhaveshQA
-- 👀 I am worked as Software Test Engineer in IT Industry.
-- 🌱 I’m ISTQB and SFC certified
-- 💞️ I am updating my skill in every phase of my life...
-- 📫 How to reach me ...
+👋 Hi, I'm Bhavesh Rathod — a passionate QA Engineer with 12+ years of experience in manual, automation, and API testing across domains like HRMS, AWS platforms, and e-commerce.
 
-<!---
-BhaveshQA/BhaveshQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 I specialize in:
+
+🔧 Automation Testing with Selenium WebDriver and Playwright (Java & JS)
+
+🔄 API Testing with Postman and scripting custom validations
+
+🧪 Building maintainable frameworks using TestNG, POM, and CI tools like Jenkins
+
+☁️ Working with AWS tools (S3, DynamoDB, CloudWatch) for cloud-based testing
+
+📲 Accessibility & Mobile Testing using VoiceOver, TalkBack, and keyboard navigation
+
+🚀 Currently exploring modern automation frameworks, real-world API validation, and continuous learning in areas like performance and security testing.
+
+📂 Check out my repositories to see sample projects, reusable components, and learning-based automation examples.
+
+📫 Let’s connect:
+📧 engineerqa.bhavesh007@gmail.com
