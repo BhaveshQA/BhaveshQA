@@ -1,4 +1,4 @@
-🔍 I’m a passionate QA Engineer with over **12 years of experience** in Software Testing across domains like **AWS Events**, **HRMS**, **Finance**, and **E-commerce**.
+🔍 I’m a passionate QA Engineer with over **12 years of experience** in Software Testing across domains like **AWS Events**, **HRMS**, **Finance**, and **E-commerce**, **Social Media**, **Food App**, **Dating App**
 
 ### 🚀 What I Do:
 - Design and execute **automation frameworks** using Selenium, Playwright, and TestNG
