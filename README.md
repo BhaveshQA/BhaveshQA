@@ -28,12 +28,6 @@
 - ✅ JMeter (BlazeMeter) – Intro Level  
 - ✅ Scrum Fundamentals Certified
 
----
-
-### 📌 Featured Repositories (Coming Soon)
-- `playwright-web-automation` – Sample E-commerce UI Automation (JavaScript)
-- `postman-api-testing` – API Test Suite with Postman + Collections + Reports
-- `a11y-mobile-testing` – Mobile Accessibility Scenarios using VoiceOver & TalkBack
 
 ---
 
