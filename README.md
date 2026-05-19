@@ -1,4 +1,4 @@
-🔍 "Senior QA Automation Engineer | 13+ yrs | Playwright · Selenium · API Testing · Accessibility | Open to remote opportunities"
+🔍 "Senior QA Automation Engineer | 12+ yrs | Playwright · Selenium · API Testing · Accessibility | Open to remote opportunities"
 
 ### 🚀 What I Do:
 - Design and execute **automation frameworks** using Selenium, Playwright, and TestNG
