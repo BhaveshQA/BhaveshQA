@@ -1,4 +1,4 @@
-🔍 I’m a passionate QA Engineer with over **12 years of experience** in Software Testing across domains like **AWS Events**, **HRMS**, **Finance**,**E-commerce**, **Social Media**, **Food App**, **Dating App**
+🔍 "Senior QA Automation Engineer | 13+ yrs | Playwright · Selenium · API Testing · Accessibility | Open to remote opportunities"
 
 ### 🚀 What I Do:
 - Design and execute **automation frameworks** using Selenium, Playwright, and TestNG
@@ -33,7 +33,7 @@
 
 ### 📫 Let's Connect
 - ✉️ Email: engineerqa.bhavesh007@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 🌐 [LinkedIn]:https://www.linkedin.com/in/bhavesh-rathod-38b89615/?skipRedirect=true
 - 📂 [Resume (on request)]
 
 ---
