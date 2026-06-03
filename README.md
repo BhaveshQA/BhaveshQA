@@ -13,7 +13,7 @@
 ### 🧰 Tech Stack & Tools
 **Languages:** Java, JavaScript, SQL  
 **Automation:** Selenium WebDriver, Playwright, TestNG  
-**API Testing:** Postman, REST APIs, Newman
+**API Testing:** Postman, REST APIs, Newman,
 **DevOps:** Git, GitHub, Jenkins 
 **Cloud:** AWS (S3, DynamoDB, CloudWatch)  
 **Accessibility:** VoiceOver, TalkBack, Axe, WAVE  
