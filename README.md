@@ -3,7 +3,7 @@
 ### 🚀 What I Do:
 - Design and execute **automation frameworks** using Selenium, Playwright, and TestNG
 - Perform **API testing** with Postman, build regression suites, and validate complex workflows
-- Conduct **accessibility audits** on web and mobile apps using VoiceOver, TalkBack, AXE, and WAVE
+- Conduct **accessibility audits** on web and mobile apps using VoiceOver, TalkBack
 - Collaborate with cross-functional teams in Agile/Scrum environments
 - Integrate tests with **CI/CD pipelines** using Jenkins and GitHub Actions
 - Use AWS services like S3, DynamoDB, and CloudWatch for backend testing and log validation
